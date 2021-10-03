@@ -5,10 +5,16 @@
 - 📫 How to reach me ... can contact me via email ram @ pluslab.com or on pluslab.net
 
 
-Codes:
+Codes on https://gist.github.com/rambkk :
+
+
 PHP array_reduce_JS - array_reduce function with passing of key/index and array (javascript like parameters) to the callback function
+
 PHP findIndex - a PHP - javascript like findIndex function
+
 PHP findIndexes - similar to findIndex but this outputs all matched key/index in an array
+
+
 <!---
 rambkk/rambkk is a ✨ special ✨ repository because its ..... yes, it just is.
 --->
