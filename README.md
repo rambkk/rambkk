@@ -8,6 +8,7 @@ Check my web on www.pluslab.com (general) and www.pluslab.net (IT specific)
 
 Recently added:
 ```
+sum of Array - techniques for making sums of corresponding items in arrays
 normalising names
 PHP utility - array_reduce_JS (array_reduce with key)
 PHP findIndex - a PHP - javascript like findIndex function
